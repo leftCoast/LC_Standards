@@ -1,1 +1,1 @@
-This is just kinda' best practice notes that have come about during design and building things. What diameter hole does one need to create for a self tapping 2mm screw hole using a makerbot relicator 2? What color wire are we using for SPI bus signals? That kind of thing.
+This is just kinda' best practice notes that have come about during design and building things. What exact diameter hole does one need to create for a self tapping 2mm screw using a makerbot relicator 2? What color wire are we using for SPI bus signals? That kind of thing.
